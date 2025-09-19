@@ -53,6 +53,10 @@ Generated\ Files/
 [Bb]uild[Ll]og.*
 *.trx
 
+# Include all test artifacts under documentation/TestResults (override earlier ignores)
+!documentation/TestResults/
+!documentation/TestResults/**
+
 # NUnit
 *.VisualState.xml
 TestResult.xml
@@ -97,6 +101,8 @@ StyleCopReport.xml
 *.rsp
 # but not Directory.Build.rsp, as it configures directory-level build defaults
 !Directory.Build.rsp
+# allow committing test run settings
+!testoptions.rsp
 *.sbr
 *.tlb
 *.tli
@@ -159,7 +165,6 @@ _TeamCity*
 
 # Coverlet is a free, cross platform Code Coverage Tool
 coverage*.json
-coverage*.xml
 coverage*.info
 
 # Visual Studio code coverage results

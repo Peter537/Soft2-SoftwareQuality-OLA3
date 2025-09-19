@@ -1,0 +1,6 @@
+/p:CollectCoverage=true
+/p:CoverletOutputFormat=opencover
+/p:CoverletOutput=.\TestResults\coverage
+/p:Threshold=1
+/p:ThresholdType=line
+/p:ExcludeByFile="**/Program.cs,**/InMemoryTodoRepository.cs"

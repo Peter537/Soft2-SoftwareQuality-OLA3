@@ -54,5 +54,8 @@ Det har vi skrevet i [documentation/sonar-qube-report.md](./documentation/sonar-
 
 ## Software Review
 
+Vores siftware review kan findes i [software-review.md](software-review.md)
+
 ## Reflection on Testing and Code Quality
 
+Vores refleksion omkring Testing og Code Quality kan findes i [reflection-on-testing-and-code-quality.md](reflection-on-testing-and-code-quality.md)

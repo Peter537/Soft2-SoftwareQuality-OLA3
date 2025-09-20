@@ -52,6 +52,8 @@ Det har vi skrevet i [documentation/sonar-qube-report.md](./documentation/sonar-
 
 ## Peer Code Review
 
+Vores PR med feedback og ændringer kan findes i [https://github.com/Peter537/Soft2-SoftwareQuality-OLA3/pull/1](https://github.com/Peter537/Soft2-SoftwareQuality-OLA3/pull/1)
+
 ## Software Review
 
 Vores siftware review kan findes i [software-review.md](software-review.md)
